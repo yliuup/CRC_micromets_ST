@@ -17,7 +17,9 @@ Seurat v5.2.1, BayesSpace v1.10.1, CytoTRACE v0.3.3, ggraph v2.2.1, survminer v0
 cell2location v0.1.4, Stardist v0.8.3, Cellpose v4.0.4, SMURF v1.0.2
 ## Data Availability
 Meta_data
+
 The Meta_data directory contains pathological annotations for: Visium and Visium HD spatial transcriptomics samples
+
 These annotations include region labels, pathological classifications, and associated metadata used for downstream spatial analyses.
 ## Visualization and Intermediate Data
 All additional data used for figure generation, including processed matrices and intermediate outputs, have been deposited on Zenodo.
