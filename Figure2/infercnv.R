@@ -1,4 +1,4 @@
-for (i in c("PAT2","PAT3","PAT4","PAT5","PAT6","PAT7","PAT8","PAT9","PAT10","PAT11")){
+for (i in c("PAT1","PAT2","PAT3","PAT4","PAT5","PAT6","PAT7","PAT8","PAT9","PAT10","PAT11")){
  
   dat_new <- get(paste0(i))
   ep_data <- as.matrix(GetAssayData(object = dat_new, slot = "data"))
