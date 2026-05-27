@@ -10,7 +10,7 @@ The following software and tools were used in this study:
 
 **R Packages**
 
-Seurat v5.2.1, BayesSpace v1.10.1, CytoTRACE v0.3.3, ggraph v2.2.1, survminer v0.5.0, survival v3.7.0, survcomp v1.54.0, GSVA v1.52.3, NMF v0.27, SpatialInferCNV v1.0.1, CellChat v2.1.2, CNVkit v0.9.12
+Seurat v5.2.1, BayesSpace v1.10.1, CytoTRACE v0.3.3, ggraph v2.2.1, survminer v0.5.0, survival v3.7.0, survcomp v1.54.0, GSVA v1.52.3, NMF v0.27, SpatialInferCNV v1.0.1, CNVkit v0.9.12
 
 **Python Packages**
 
