@@ -27,7 +27,7 @@ dat_liver_tum_filt %>%
   #                    labels = abs(breaks_values))+
   theme_minimal()+ theme(
     panel.grid = element_blank(), # 
-    panel.border = element_rect(color = "black", fill = NA, size = 0.8) # 添加边框
+    panel.border = element_rect(color = "black", fill = NA, size = 0.8) # 
   )
 
 
