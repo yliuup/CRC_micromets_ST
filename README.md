@@ -21,8 +21,5 @@ Meta_data
 The Meta_data directory contains pathological annotations for: Visium and Visium HD spatial transcriptomics samples
 
 These annotations include region labels, pathological classifications, and associated metadata used for downstream spatial analyses.
-## Visualization and Intermediate Data
-All additional data used for figure generation, including processed matrices and intermediate outputs, have been deposited on Zenodo.
-Zenodo repository: 👉 [https://zenodo.org/records/17796737]
 ## Notes
 For any questions, please leave your comment in GitHub or contact Yang Liu (yliu47@mdanderson.org). We will help address the issues as soon as possible.
